@@ -5,10 +5,9 @@
 <img src="https://img.shields.io/badge/status-desenvolvimento-yellow" />
 </p>
 
-
 ## Ferramentas utilizadas
 
-<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219813606-50843b58-8bc3-4b54-befd-4c002ded863d.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactrouter.com/en/main" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219813871-2a725fde-a73c-4151-b409-b5bed9006625.svg" alt="reactRouterDOM" width="40" height="40"/> </a>
+<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219813606-50843b58-8bc3-4b54-befd-4c002ded863d.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactrouter.com/en/main" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/219813871-2a725fde-a73c-4151-b409-b5bed9006625.svg" alt="reactRouterDOM" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/94543490/222932845-26f2c625-012e-49ab-a838-9384b84f15cb.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 ## Abrir e rodar o projeto
 
