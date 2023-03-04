@@ -2,7 +2,7 @@
 
 
 <p align="initial">
-<img src="https://img.shields.io/badge/status-desenvolvimento-brightgreen" />
+<img src="https://img.shields.io/badge/status-desenvolvimento-yellow" />
 </p>
 
 
