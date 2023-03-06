@@ -1,12 +1,14 @@
+// ** Hooks Imports
 import { useState } from "react";
 import { Link, Outlet, useNavigate } from "react-router-dom";
+
+// ** Components Imports
 import { Alert } from "./components/Alert";
 
 function App() {
   const [jwtToken, setJwtToken] = useState("")
   const [alertMessage, setAlertMessage] = useState("")
   const [alertClassName, setAlertClassName] = useState("d-none")
-
   const navigate = useNavigate()
 
   const logOut = () => {
